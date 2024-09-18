@@ -1,10 +1,9 @@
 using System;
-using UnityEngine;
 using System.Collections.Generic;
 
 namespace TripleA.FSM
 {
-	public class StateMachine : MonoBehaviour
+	public class StateMachine
 	{
 		private StateNode m_currentNode;
 		private Dictionary<Type, StateNode> m_nodes = new();
