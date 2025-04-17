@@ -1,6 +1,6 @@
 {
     "name": "com.TripleAStudios.FSM",
-    "rootNamespace": "TripleA",
+    "rootNamespace": "TripleA.StateMachine",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,4 +1,4 @@
-namespace TripleA.FSM
+namespace TripleA.StateMachine.FSM
 {
 	public interface IPredicate
 	{

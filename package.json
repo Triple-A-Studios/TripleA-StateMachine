@@ -1,12 +1,12 @@
 {
     "name": "com.triple-a-studios.statemachine",
     "description": "Extensible State Machine for Unity",
-    "version": "1.0.1",
-    "displayName": "TripleA-StateMachine",
+    "version": "1.0.2",
+    "displayName": "TripleA - State Machine",
     "unity": "2021.3",
-    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
-    "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
-    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-StateMachine",
+    "changelogUrl": "https://github.com/Triple-A-Studios/StateMachine/blob/main/CHANGELOG.md",
+    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-StateMachine",
     "dependencies": {},
     "keywords": [
         "State Machine",

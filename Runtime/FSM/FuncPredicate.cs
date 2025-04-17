@@ -1,6 +1,6 @@
 using System;
 
-namespace TripleA.FSM
+namespace TripleA.StateMachine.FSM
 {
 	public class FuncPredicate: IPredicate
 	{

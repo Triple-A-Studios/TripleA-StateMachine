@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace TripleA.FSM
+namespace TripleA.StateMachine.FSM
 {
 	public class StateMachine
 	{
